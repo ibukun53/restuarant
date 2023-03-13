@@ -1,10 +1,10 @@
-# Project Name
+# restuarant
 
-> One paragraph statement about the project.
+> This restuarant project is a website that showcase about our restuarant features.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Restuarant project describes what we do in our website. It presented out our different kind of food we have to our potential customers and make them available.
 
 ## Built With
 
@@ -14,14 +14,14 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+https://deploy-preview-1--restuarant-plan.netlify.app/ 
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/ibukun53/restuarant
 
 ```
 
@@ -70,9 +70,8 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@author](https://github.com/ibukun53/)
+- Linkedin: [@author](https://www.linkedin.com/in/ibukun53/)
 
 ## 🤝 Contributing
 
@@ -83,12 +82,6 @@ Feel free to check the [issues page](../../issues).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
 
 ## 📝 License
 
